@@ -1,0 +1,10 @@
+1. Se incluyen todos los archivos 
+2. Se eligen quˆ© objetos crear y ¬øcˆ„mo crearlos (forma de herencia)? 
+3. Se crea el objeto padre: objeto
+4. se eliminan las carpetas de gestiˆ„n
+5. se pasa una variable en el get que se va a llamar seccion_actual=carpeta
+6. se hace a traves de mediaymedia.com/include todos los include
+7. Implemetar sistema de debug
+
+
+ACABAR BUSCADOR CON LIBRO DE PHP SISTEMA DE BUSQUEDAS EN CADENAS CON OTRAS FUNCIONES
